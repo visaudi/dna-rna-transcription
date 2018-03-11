@@ -1,0 +1,23 @@
+{
+  "name": "dna-rna-transcription",
+  "version": "1.0.0",
+  "description": "## GOAL:",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^22.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visaudi/dna-rna-transcription.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visaudi/dna-rna-transcription/issues"
+  },
+  "homepage": "https://github.com/visaudi/dna-rna-transcription#readme"
+}
